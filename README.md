@@ -39,7 +39,7 @@ lxml==5.3.0
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/webspy.git
+   git clone https://github.com/pahujamanan2011-hue/webspy.git
    cd webspy
    ```
 
