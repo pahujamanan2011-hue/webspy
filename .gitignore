@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+exports/*.txt
+exports/*.md
+!exports/.gitkeep
+.env
